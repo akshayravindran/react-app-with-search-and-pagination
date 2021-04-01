@@ -1,0 +1,10 @@
+.myheader {
+    min-height: 10vh;
+    width: 100%;
+}
+
+@media(min-width: 991px) {
+    #searchForm {
+        width: 50%;
+    }
+}
